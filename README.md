@@ -31,11 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/AsinVardhini/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119417735/aad3f842-9ed9-4577-bf0f-18dc64e28a65)
+![image](https://github.com/shalini-venkatesan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118720291/c65919e9-c9d5-4695-8ffc-6252c2dcdf60)
 
 ### Output:
+![image](https://github.com/shalini-venkatesan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118720291/529385d2-6670-4c36-87ed-57db6fdcaee3)
 
-![image](https://github.com/AsinVardhini/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119417735/b52b8305-f68c-4d10-bbf6-3675550f3cf4)
 
 
 ### Name: SHALINI VENKATESAN
